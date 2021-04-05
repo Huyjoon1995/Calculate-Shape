@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\CalculateShape\CalculateShape\bin\Debug\netcoreapp3.1\CalculateShape.exe
+C:\Users\Owner\source\repos\CalculateShape\CalculateShape\bin\Debug\netcoreapp3.1\CalculateShape.deps.json
+C:\Users\Owner\source\repos\CalculateShape\CalculateShape\bin\Debug\netcoreapp3.1\CalculateShape.runtimeconfig.json
+C:\Users\Owner\source\repos\CalculateShape\CalculateShape\bin\Debug\netcoreapp3.1\CalculateShape.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\CalculateShape\CalculateShape\bin\Debug\netcoreapp3.1\CalculateShape.dll
+C:\Users\Owner\source\repos\CalculateShape\CalculateShape\bin\Debug\netcoreapp3.1\CalculateShape.pdb
+C:\Users\Owner\source\repos\CalculateShape\CalculateShape\obj\Debug\netcoreapp3.1\CalculateShape.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\CalculateShape\CalculateShape\obj\Debug\netcoreapp3.1\CalculateShape.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\CalculateShape\CalculateShape\obj\Debug\netcoreapp3.1\CalculateShape.AssemblyInfo.cs
+C:\Users\Owner\source\repos\CalculateShape\CalculateShape\obj\Debug\netcoreapp3.1\CalculateShape.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CalculateShape\CalculateShape\obj\Debug\netcoreapp3.1\CalculateShape.dll
+C:\Users\Owner\source\repos\CalculateShape\CalculateShape\obj\Debug\netcoreapp3.1\CalculateShape.pdb
+C:\Users\Owner\source\repos\CalculateShape\CalculateShape\obj\Debug\netcoreapp3.1\CalculateShape.genruntimeconfig.cache
